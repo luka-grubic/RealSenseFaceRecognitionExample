@@ -1,2 +1,7 @@
 # RealSenseFaceRecognitionExample
- RealSense Face Recognition Example
+
+by: Luka Grubić
+current version: 0.1
+year: 2022.
+
+
